@@ -1,5 +1,4 @@
-# GamesGlobal Technical test
- 
+
 ## App 
 In the React with TypeScript application, Material-UI was used as the primary design library, as per requirements. However, to reduce dependency on a single third-party library and ensure flexibility for future technology changes, I wrapped almost all MUI components with custom component wrappers.
 
