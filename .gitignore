@@ -141,7 +141,7 @@ dist
 *.vspx
 *.pfx
 *.publishsettings
-/Backend/API/.*.vs/
+/Backend/API/.vs/
 
 # Logs and databases
 *.log
