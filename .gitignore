@@ -128,3 +128,36 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Build directories
+/Backend/API/.bin/
+/Backend/API/.obj/
+/Backend/API/.out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.vspx
+*.pfx
+*.publishsettings
+/Backend/API/.*.vs/
+
+# Logs and databases
+*.log
+*.db
+*.mdf
+*.ldf
+
+# Temporary files
+*.tmp
+*.cache
+*.ide
+*.orig
+
+# Visual Studio working files
+.vscode/
+.vs/
+*.sln.docstates
+
+# Rider
